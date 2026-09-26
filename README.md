@@ -36,4 +36,4 @@ School-Management-System/
 ```
 
 ## Project link
-Link - [
+Link - [https://github.com/SarikaBingi/School_Management_System-.git]
