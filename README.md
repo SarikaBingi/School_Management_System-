@@ -24,15 +24,14 @@ This project is a basic school management application that keeps track of the sc
 ## 📂 Project Structure
 
 ```text
-School-Management-System/
-│
-├── src/
-│   ├── Main.java
-│   ├── School.java
-│   ├── Student.java
-│   └── Teacher.java
-│
-└── README.md
+src
+└── school
+    └── management
+        └── system
+            ├── Main.java
+            ├── School.java
+            ├── Student.java
+            └── Teacher.java
 ```
 
 ## Project link
